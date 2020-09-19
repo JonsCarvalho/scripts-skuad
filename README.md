@@ -74,7 +74,7 @@ $ python script_02.py YYYYMM <caminho>
 ```
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/JonsCarvalho/scripts-skuad/blob/master/LICENSE.md) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/JonsCarvalho/scripts-skuad/blob/master/LICENSE) for more information.
 
 ## :octocat: Author
 
